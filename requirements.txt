@@ -1,7 +1,6 @@
 fastapi[standard]
 python-jose
 passlib
-bcrypt
 pymongo
 pyjwt
 pwdlib
