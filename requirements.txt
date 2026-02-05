@@ -1,8 +1,7 @@
 fastapi[standard]
 uvicorn
 python-jose
-passlib
-bcrypt
+passlib[bcrypt]
 pymongo
 pyjwt
 pwdlib
