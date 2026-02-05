@@ -42,8 +42,8 @@ users_db = {
     }
 }
 
-hashed = crypt.hash("123456")
-print(hashed)
+# hashed = crypt.hash("123456")
+# print(hashed)
 
 def search_user_db(username: str):
     if username in users_db:
